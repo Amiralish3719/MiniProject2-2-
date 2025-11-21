@@ -13,6 +13,7 @@ public:s ();
 
 Hare class
 {
+    
 private:
     
 public:
